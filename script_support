@@ -5,7 +5,7 @@ clear
 #          Creditos
 #   Miner by tpruvot
 #   Source by FENIX_LINUX
-#   Edit by HumansLothbrok
+#   Edit by @brokenbr
 #------------------------------
 
 bash=$(echo $BASH)
